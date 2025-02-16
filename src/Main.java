@@ -1,8 +1,8 @@
 public class Main {
     public static void main(String[] args) {
 
-        int balance = 100; //Количество денег на текущем счёте клиента
-        int deposit = 1000; //сумма пополнения
+        int balance = 0; //Количество денег на текущем счёте клиента
+        int deposit = 1200; //сумма пополнения
         int fin_bonus = 0; //количество бонусных рублей
 
         if (deposit > 1000) {
